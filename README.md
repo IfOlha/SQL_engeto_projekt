@@ -13,3 +13,4 @@ Pro finální dotazy byly nejdříve vytvořeny 2 SQL tabulky s názvy:
 t_olha_berezovska_projekt_SQL_primary_final.sql - pro data mezd a cen potravin za Českou republiku sjednocených na totožné porovnatelné období – společné roky
 t_olha_berezovska_projekt_SQL_secondary_final.sql - pro dodatečná data o dalších evropských státech
 
+Discord.name - IfOlha
